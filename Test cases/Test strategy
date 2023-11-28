@@ -7,7 +7,7 @@ Testcase 6: Install GitBash and execute the commands needed to be setup ($Git- I
 Testcase 7: Execute the required code and check for pass/fail. Once verified, code is committed and pushed to the github server. Expected: Successful push to the account, if error then check for the SSH key and repush.
 Testcase 8: Create pull request in Github and execute the cases using Action command. Expected: Test case passed/ Test case failed( Recheck and raise issue in Git)
 TEST STRATEGY:
-Pre- installation of programming tools and the needed test environment.
+Pre- installation of programming tools and the needed test environment.(Java required tools- Intellij, GitBash command, Command prompt)
 Authentication to Github without any error. If using token, it is generated once, inorder to use another token change the name of the authentication to create new token.
-Pushing the code from Java to GitHub without errors, if error occurs, check the necessary methods to overcome the error.
+RISK FACTORS: Pushing the code from Java to GitHub without errors, if error occurs, check the necessary methods by regenerating tokens to overcome the error.
 Executing the code and getting passed/failed commands. If failed, code to be rechecked and re-executed, if same error occurs issue to be created in Git and tracked.
