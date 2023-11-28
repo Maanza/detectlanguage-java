@@ -1,0 +1,13 @@
+Create an account in github
+Create a repository for the account
+Select the programming langauage to be tested
+For Java, install the required tools to be used(Intellij, Gitbash, Command prompt)
+Once installed, check the pre-requisites and environment needed to setup the tool. Eg:(Maven there is a dependency to be added before coding, addd that and click commit changes)
+The required changes are refelected in the folder created.
+Install the API key by signing in to the Git account, API key is used to test the API cases.
+Use the API key in the main classes.io code and check by executing the run button and see if the API key is passed.
+The similiar method is done for running the test cases in Intellij by copying the code and pasting inside the class and executing it.
+Once executed, create a new branch for the code and commit the code and push the code to github using token or github account.
+Once pushed, a branch with a link is created in the repository.
+Pull the change request and execute the test cases in github using Action command.
+The tests shows pass or fail, if failed recheck and create an issue in GitHub.
