@@ -3,7 +3,8 @@ Create a repository for the account
 Select the programming langauage to be tested
 For Java, install the required tools to be used(Intellij, Gitbash, Command prompt)
 Once installed, check the pre-requisites and environment needed to setup the tool. Eg:(Maven there is a dependency to be added before coding, addd that and click commit changes)
-The required changes are refelected in the folder created.
+The required changes are reflected in the folder created.
+Use Gitbash commands in the Gitbash tool inorder to clone and register the username and email address.
 Install the API key by signing in to the Git account, API key is used to test the API cases.
 Use the API key in the main classes.io code and check by executing the run button and see if the API key is passed.
 The similiar method is done for running the test cases in Intellij by copying the code and pasting inside the class and executing it.
